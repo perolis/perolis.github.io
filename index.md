@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <mata charset="utf-8">
+        <title>index</title>
+        <style>body {padding: 30px;}</style>
+    </head>
+    <body>
+        <h1>About s.katsumata</h1>
+        <h2>Me</h2>
+            <p>Shuhei Katsumata / peroli ( HN )</p>
+            <p>新卒で Opt,Inc. に入社し新卒採用、中途採用、エンジニア組織の立ち上げ支援を経験。</p>
+            <p>その後 SmartHR,Inc. に入社し中途採用、人事制度の設計支援・運用を担当しています。</p>
+        <h2>Hobbies</h2>
+        <ul>
+            <li>🎮 Games（SSBU / Splatoon2）</li>
+            <li>🍳 Cooking</li>
+            <li>🚿 Sauna</li>
+        </ul>
 
-You can use the [editor on GitHub](https://github.com/perolis/perolis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+        <h2>Social Links</h2>
+            <ul>
+                <li><a href="https://www.facebook.com/katsumata0514"> Facebook / 勝股修平</a></li>
+                <li><a href="https://twitter.com/shu_katsumata">Twitter（メイン） / @shu_katsumata</a></li>
+                <li><a href="https://twitter.com/skatsumata_dev" >Twitter（開発） / @skatsumata_dev</a></li>
+                <li><a href="https://github.com/perolis">GitHub / perolis </a></li>
+                <li><a href="https://note.mu/mata">note / mata </a></li>
+            </ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+        <h2>Radio</h2>
+            <a href="https://www.genkai-radio.com/"> ゲンカイラジヲ</a>           
 
-### Markdown
+            
+        <h2>Contact me</h2>
+            <a href="shu.katsumata@gmail.com"> shu.katsumata@gmail.com </a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    </body>
+</html>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/perolis/perolis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
