@@ -23,7 +23,7 @@
                 <li><a href="https://github.com/perolis">GitHub</a></li>
                 <li><a href="https://note.mu/mata">note</a></li>
             </ul>
-        <h2>Radio</h2>
+        <h2>Web Radio</h2>
             <a href="https://www.genkai-radio.com/"> ゲンカイラジヲ</a>           
         <h2>Contact me</h2>
             <p>shu.katsumata@gmail.com</p>
