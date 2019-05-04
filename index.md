@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html>
     <head>
-        <mata charset="utf-8">
+        <meta charset="utf-8">
         <title>index</title>
         <style>body {padding: 30px;}</style>
     </head>
