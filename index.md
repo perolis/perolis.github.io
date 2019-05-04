@@ -6,8 +6,8 @@
         <h2>Me</h2>
             <p><b>Shuhei Katsumata / peroli ( HN )</b></p>
             <ul>
-                <li>新卒で Opt,Inc. に入社し新卒採用、中途採用、エンジニア組織の立ち上げ支援を経験</li>
-                <li>その後 SmartHR,Inc. に入社し中途採用、人事制度の設計支援・運用を担当</li>
+                <li>新卒で Opt,Inc. に入社し採用、エンジニア組織の立ち上げ支援などを経験</li>
+                <li>その後 SmartHR,Inc. に入社し採用、人事制度の設計まわりを担当</li>
             </ul>
         <h2>Hobbies</h2>
         <ul>
