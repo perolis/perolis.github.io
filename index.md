@@ -1,14 +1,12 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>index</title>
-        <style>body {padding: 30px;}</style>
     </head>
     <body>
         <h2>Me</h2>
             <p>Shuhei Katsumata / peroli ( HN )</p>
             <p>新卒で Opt,Inc. に入社し新卒採用、中途採用、エンジニア組織の立ち上げ支援を経験。</p>
-            <p>その後 SmartHR,Inc. に入社し中途採用、人事制度の設計支援・運用を担当しています。</p>
+            <p>その後 SmartHR,Inc. に入社し中途採用、人事制度の設計支援・運用を担当。</p>
         <h2>Hobbies</h2>
         <ul>
             <li>🎮 Games（SSBU / Splatoon2）</li>
@@ -17,11 +15,11 @@
         </ul>
         <h2>Social Links</h2>
             <ul>
-                <li><a href="https://www.facebook.com/katsumata0514"> Facebook / 勝股修平</a></li>
-                <li><a href="https://twitter.com/shu_katsumata">Twitter（メイン） / @shu_katsumata</a></li>
-                <li><a href="https://twitter.com/skatsumata_dev" >Twitter（開発） / @skatsumata_dev</a></li>
-                <li><a href="https://github.com/perolis">GitHub / perolis </a></li>
-                <li><a href="https://note.mu/mata">note / mata </a></li>
+                <li><a href="https://www.facebook.com/katsumata0514"> Facebook</a></li>
+                <li><a href="https://twitter.com/shu_katsumata">Twitter（main）</a></li>
+                <li><a href="https://twitter.com/skatsumata_dev" >Twitter（dev）</a></li>
+                <li><a href="https://github.com/perolis">GitHub</a></li>
+                <li><a href="https://note.mu/mata">note</a></li>
             </ul>
         <h2>Radio</h2>
             <a href="https://www.genkai-radio.com/"> ゲンカイラジヲ</a>           
