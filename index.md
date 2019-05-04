@@ -16,7 +16,6 @@
             <li>🍳 Cooking</li>
             <li>🚿 Sauna</li>
         </ul>
-
         <h2>Social Links</h2>
             <ul>
                 <li><a href="https://www.facebook.com/katsumata0514"> Facebook / 勝股修平</a></li>
@@ -25,15 +24,9 @@
                 <li><a href="https://github.com/perolis">GitHub / perolis </a></li>
                 <li><a href="https://note.mu/mata">note / mata </a></li>
             </ul>
-
         <h2>Radio</h2>
             <a href="https://www.genkai-radio.com/"> ゲンカイラジヲ</a>           
-
-            
         <h2>Contact me</h2>
             <a href="shu.katsumata@gmail.com"> shu.katsumata@gmail.com </a>
-
     </body>
 </html>
-
-
