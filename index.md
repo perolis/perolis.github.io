@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <mata charset="utf-8">
+        <title>index</title>
+        <style>body {padding: 30px;}</style>
+    </head>
+    <body>
         <h2>Me</h2>
             <p>Shuhei Katsumata / peroli ( HN )</p>
             <p>新卒で Opt,Inc. に入社し新卒採用、中途採用、エンジニア組織の立ち上げ支援を経験。</p>
