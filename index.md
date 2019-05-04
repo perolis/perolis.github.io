@@ -26,6 +26,6 @@
         <h2>Radio</h2>
             <a href="https://www.genkai-radio.com/"> ゲンカイラジヲ</a>           
         <h2>Contact me</h2>
-            <a href="shu.katsumata@gmail.com"> shu.katsumata@gmail.com </a>
+            <p>shu.katsumata@gmail.com</p>
     </body>
 </html>
