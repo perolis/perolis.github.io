@@ -22,6 +22,7 @@
                 <li><a href="https://twitter.com/skatsumata_dev" >Twitter（dev）</a></li>
                 <li><a href="https://github.com/perolis">GitHub</a></li>
                 <li><a href="https://note.mu/mata">note</a></li>
+                <li><a href="https://peroli.hatenadiary.com/">blog</a></li>
             </ul>
         <h2>Web Radio</h2>
             <a href="https://www.genkai-radio.com/"> ゲンカイラジヲ</a>           
