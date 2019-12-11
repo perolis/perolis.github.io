@@ -20,6 +20,7 @@
                 <li><a href="https://www.facebook.com/katsumata0514"> Facebook</a></li>
                 <li><a href="https://twitter.com/shu_katsumata">Twitter（main）</a></li>
                 <li><a href="https://twitter.com/skatsumata_dev" >Twitter（dev）</a></li>
+                <li><a href="https://twitter.com/peroli14" >Twitter（game）</a></li>
                 <li><a href="https://github.com/perolis">GitHub</a></li>
                 <li><a href="https://note.mu/mata">note</a></li>
                 <li><a href="https://peroli.hatenadiary.com/">blog</a></li>
